@@ -1,0 +1,16 @@
+body{
+	padding-top: 70px;
+}
+
+.jumbotron{
+	background-color: #FFFFFF;
+	background-image: url("../img/jumbotron.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+
+.jumbotron p{
+	margin-right: 200px;
+	color: darkgreen;
+}
